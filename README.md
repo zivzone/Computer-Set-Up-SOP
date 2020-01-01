@@ -3,7 +3,6 @@
 - Contains some scripts and resource
 - Just follow the step by step insturction, and you can set up your computer successfully idealy
 - If you found any condition or situation that show you fail, please open an issue.
-# Computer Set UP SOP
 ## Step.1 Assembles the computer
 ### Step.1-1 Set your budjet and make your order
 - Here is some video you can take it as reference
