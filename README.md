@@ -47,3 +47,9 @@ conda create -n env_name python=3.6
 conda create -n env_name python=3.6 anaconda
 ```
 - Here is a very useful [link](https://kezunlin.me/post/23014ca5/) for using anaconda
+
+### Step.6-2 Install Pytorch GPU
+- Without install cuda, we can use the [pre-build pytorch-cuda](https://anaconda.org/anaconda/pytorch-gpu). Use the command below
+```
+conda install -c anaconda pytorch-gpu
+```
