@@ -32,3 +32,18 @@ sudo ubuntu-drivers autoinstall
   - You can run the script **gpu_driver_setup.sh** directly
 
 ## Step.5 Install Anaconda
+
+## Step.6 Create Computinf Environment
+### Step.6-1 Using Anaconda create a vitual computing environment
+```
+conda create -n env_name
+```
+- If you want to specify which python you want to use, e.g, python3.6
+```
+conda create -n env_name python=3.6
+```
+- If you want to also install all anaconda package
+```
+conda create -n env_name python=3.6 anaconda
+```
+- Here is a very useful [link](https://kezunlin.me/post/23014ca5/) for using anaconda
