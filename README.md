@@ -9,3 +9,10 @@
 - [What does what in your computer? Computer parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)
 
 ## Step.2 OS Installation
+
+## Step.3 Network, Link, or Remote Setup
+### Step.3-1 SSH Setup
+```
+sudo apt-get install openssh-server
+```
+
