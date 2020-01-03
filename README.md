@@ -30,3 +30,5 @@ sudo apt update
 sudo ubuntu-drivers autoinstall
 ```
   - You can run the script **gpu_driver_setup.sh** directly
+
+## Step.5 Install Anaconda
