@@ -16,3 +16,16 @@
 sudo apt-get install openssh-server
 ```
 
+## Step.4 Nvidia GPU Driver Setup
+### Step.4-1 Use the command below
+```
+#install common
+sudo apt update
+sudo apt upgrade
+sudo apt install ubuntu-drivers-common
+
+#install driver
+sudo add-apt-repository ppa:graphics-drivers/ppa
+sudo apt update
+sudo ubuntu-drivers autoinstall
+```
