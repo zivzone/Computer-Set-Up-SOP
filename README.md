@@ -29,3 +29,4 @@ sudo add-apt-repository ppa:graphics-drivers/ppa
 sudo apt update
 sudo ubuntu-drivers autoinstall
 ```
+  - You can run the script **gpu_driver_setup.sh** directly
