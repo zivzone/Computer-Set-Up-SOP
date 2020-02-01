@@ -58,4 +58,33 @@ conda create -n env_name python=3.6 anaconda
 ```
 conda install -c anaconda pytorch-gpu
 ```
-### Step.7 Troubleshoooting
+## Step.7 Troubleshoooting
+- Q.1 Cannot login / Resolution is wrong after reboot or power shutdown
+  - A.1 Take [this link](https://blog.csdn.net/Chris_zhangrx/article/details/79874783) as reference
+  ```
+  # Step.1 Goto to the TTY mode
+    Press "ctrl + alt + F1" when you see the normal ubuntu login scene
+    If you want to leave TTY mode, you can use the way list below:
+    Press "ctrl + alt + F7"
+  
+  # Step.2 Login with you account and password
+  
+  # Step.3 Test "nvidia-smi" to know that whether the driver can commuicate with gpu or not
+  
+  # Step.4 If "Step.3" shows that the driver cannot commuicate with the gpu, please continue to use the rest of steps, and if doesn't
+    shows that, please conntact the manger or your senior
+  
+  # Step.5 Use the scripts below:
+    sudo apt-get upgrade
+    # If your nvidia driver version is 375: 
+    sudo apt-get install nvidia-375
+    sudo dpkg-reconfigure nvidia-375
+    # And if does not, please modify the script above into:
+    sudo apt-get install nvidia-driver_version
+    sudo dpkg-reconfigure nvidia-driver_version
+  
+  # Step.6 Rebbot the computer
+    sudo reboot
+  
+  # Step.7 It's should be normal now! You can login as usual.
+  ```
