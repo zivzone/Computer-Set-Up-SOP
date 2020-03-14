@@ -88,3 +88,11 @@ conda install -c anaconda pytorch-gpu
   
   # Step.7 It's should be normal now! You can login as usual.
   ```
+- Q.2 Cannot login successfully; Cycle login
+  - A.1 Take [this link](https://zhuanlan.zhihu.com/p/27549771)as refewrence
+  ```
+  $ sudo apt update
+  $ sudo apt install --reinstall unity unity-common unity-lens* ubuntu-desktop lightdm
+  $ sudo apt autoremove --purge
+  $ reboot
+  ```
