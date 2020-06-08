@@ -4,6 +4,7 @@
 - Just follow the step by step insturction, and you can set up your computer successfully idealy
 - If you found any condition or situation that show you fail, please open an issue.
 - You also can take [this link](http://www.52nlp.cn/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BA%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AEubuntu-1080ti-cuda-cudnn) as reference
+- here is some [trouble shooting](https://medium.com/@afun/ubuntu-16-04-%E5%AE%89%E8%A3%9D-cuda-cudnn-nvidia-driver-%E7%9A%84%E8%B8%A9%E9%9B%B7%E5%BF%83%E5%BE%97-%E9%9D%9E%E5%AE%89%E8%A3%9D%E6%AD%A5%E9%A9%9F%E8%A9%B3%E8%A7%A3-b13121d95025)
 ## Step.1 Assembles the computer
 ### Step.1-1 Set your budjet and make your order
 - Here is some video you can take it as reference
