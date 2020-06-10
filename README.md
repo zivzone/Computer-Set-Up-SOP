@@ -61,6 +61,8 @@ conda create -n env_name python=3.6 anaconda
 ```
 conda install -c anaconda pytorch-gpu
 ```
+### Step.6-3 (Option)Install CUDA & cudnn
+- If you really need to install CUDA and cudnn, take [this link](https://medium.com/@zihansyu/ubuntu-16-04-%E5%AE%89%E8%A3%9Dcuda-10-0-cudnn-7-3-8254cb642e70) as reference
 ## Step.7 Troubleshoooting
 - Q.1 Cannot login / Resolution is wrong after reboot or power shutdown
   - A.1 Take [this link](https://blog.csdn.net/Chris_zhangrx/article/details/79874783) as reference
