@@ -99,3 +99,5 @@ conda install -c anaconda pytorch-gpu
   $ sudo apt autoremove --purge
   $ reboot
   ```
+- Q.3 If cannot contact with the GPU
+  - A.3 Take [this link](https://discuss.pytorch.org/t/nvidia-driver-cudatoolkit-installed-properly-but-check-driver-fails/54284) as reference
