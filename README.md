@@ -24,7 +24,7 @@ sudo apt-get install openssh-server
   - You can take [this link](https://www.ptt.cc/bbs/Linux/M.1541491345.A.DE8.html) as reference
   - And [this link](https://kifarunix.com/install-and-setup-chrome-remote-desktop-on-ubuntu-18-04/)
 - AnyDesk
-  - The officail website
+  - [The officail website](https://anydesk.com/zhs)
 ## Step.4 Nvidia GPU Driver Setup
 ### Step.4-1 Use the command below
 ```
