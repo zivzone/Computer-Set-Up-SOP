@@ -13,6 +13,7 @@
 - [What does what in your computer? Computer parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)
 
 ## Step.2 OS Installation
+- [How to Install Ubuntu Linux in the Simplest Possible Way](https://itsfoss.com/install-ubuntu/)
 
 ## Step.3 Network, Link, or Remote Setup
 ### Step.3-1 SSH Setup
