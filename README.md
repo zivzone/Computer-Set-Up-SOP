@@ -105,3 +105,7 @@ conda install -c anaconda pytorch-gpu
   ```
 - Q.3 If cannot contact with the GPU
   - A.3 Take [this link](https://discuss.pytorch.org/t/nvidia-driver-cudatoolkit-installed-properly-but-check-driver-fails/54284) as reference
+  
+- Q.4 If cannot use multi-gpu for training, ex: NV-Link fail
+
+- Q.5 If k8s container fail, ex: youcannot deploy the model
